@@ -1,4 +1,4 @@
-## Olá! Eu sou o Elias, atualmente estudante de progamação😜
+## Olá! Eu sou o Elias, atualmente estudante de programação😜
 
 ## Linguagens que estou aprendendo diariamente 
 
