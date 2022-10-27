@@ -1,5 +1,5 @@
-<h1> Olá! Eu sou o Elias, atualmente estudante de programação😜 <h1>
-<h2>Linguagens que estou aprendendo diariamente <h2> 
+## Olá! Eu sou o Elias, atualmente estudante de programação😜 
+## Linguagens que estou aprendendo diariamente 
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
