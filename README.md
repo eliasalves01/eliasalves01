@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Elias, atualmente estudante de programação😜
 
-<p> <strong>Linguagens que estou aprendendo diariamente</strong> <p> 
+<h2><strong>Linguagens que estou aprendendo diariamente</strong> <h2> 
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
