@@ -1,5 +1,4 @@
 <h1> Olá! Eu sou o Elias, atualmente estudante de programação😜 <h1>
-
 <h2>Linguagens que estou aprendendo diariamente <h2> 
 
 <div style="display: inline_block">
