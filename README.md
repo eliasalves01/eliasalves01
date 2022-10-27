@@ -1,4 +1,4 @@
-## Olá! Eu sou o Elias, atualmente estudante de programação pela INFNET😜 
+## Olá! Eu sou o Elias, atualmente estudante de programação pela INFNET 🤟
 ## Linguagens que estou aprendendo diariamente 
 
 <div style="display: inline_block">
